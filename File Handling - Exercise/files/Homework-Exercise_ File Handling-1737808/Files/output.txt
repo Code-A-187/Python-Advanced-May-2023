@@ -1,0 +1,20 @@
+ .gitignore
+---.gitignore
+ .iml
+---Files.iml
+ .py
+---1. Even Lines.py
+---2. Line Numbers.py
+---3. File Manipulator.py
+---4. Directory Traversal.py
+---main.py
+ .txt
+---1. Even Lines.txt
+---2. Line Numbers.txt
+---file.txt
+ .xml
+---Project_Default.xml
+---misc.xml
+---modules.xml
+---profiles_settings.xml
+---workspace.xml
